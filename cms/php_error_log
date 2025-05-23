@@ -1,0 +1,237 @@
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\modules\nav.php on line 13
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 7
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 80
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 172
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 45
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:00:13 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:00:14 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 4
+[25-Mar-2025 11:00:14 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:00:14 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:00:14 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\modules\modals\offices.php on line 55
+[25-Mar-2025 11:01:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 7
+[25-Mar-2025 11:01:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 80
+[25-Mar-2025 11:01:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php on line 172
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 45
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 4
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:01:41 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\modules\modals\offices.php on line 55
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 45
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 74
+[25-Mar-2025 11:03:18 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 4
+[25-Mar-2025 11:03:19 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:03:19 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(custom/orders/orders.php): Failed to open stream: No such file or directory in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(): Failed opening 'custom/orders/orders.php' for inclusion (include_path='D:\xamp\php\PEAR') in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(custom/products/products.php): Failed to open stream: No such file or directory in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(): Failed opening 'custom/products/products.php' for inclusion (include_path='D:\xamp\php\PEAR') in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(custom/panel/panel.php): Failed to open stream: No such file or directory in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  include(): Failed opening 'custom/panel/panel.php' for inclusion (include_path='D:\xamp\php\PEAR') in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\categories.php on line 194
+[25-Mar-2025 11:04:44 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 4
+[25-Mar-2025 11:04:45 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:04:45 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:05:47 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 4
+[25-Mar-2025 11:05:48 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:05:48 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:07:11 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:07:11 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:07:37 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:07:37 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:11:34 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:11:34 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 269
+[25-Mar-2025 11:13:40 America/Bogota] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 662
+[25-Mar-2025 11:15:00 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php on line 36
+[25-Mar-2025 11:31:29 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\controllers\admins.controller.php on line 54
+[25-Mar-2025 11:31:37 America/Bogota] PHP Warning:  Undefined property: stdClass::$id_office_admin in D:\xamp\htdocs\pos\cms\controllers\admins.controller.php on line 54
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "token_admin" on string in D:\xamp\htdocs\pos\cms\controllers\admins.controller.php on line 73
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 88
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "name_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\nav.php on line 14
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 333
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 333
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 369
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 10
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "id_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 17
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "email_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 28
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 54
+[25-Mar-2025 11:32:07 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 418
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 88
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "name_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\nav.php on line 14
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 333
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 333
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 369
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 10
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "id_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 17
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "email_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 28
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 54
+[25-Mar-2025 11:32:08 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 418
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 37
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\sidebar.php on line 88
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "name_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\nav.php on line 14
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 10
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "id_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 17
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "email_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 28
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\modules\modals\profile.php on line 54
+[25-Mar-2025 11:32:16 America/Bogota] PHP Warning:  Attempt to read property "rol_admin" on string in D:\xamp\htdocs\pos\cms\views\template.php on line 418
+[26-Mar-2025 09:47:50 America/Bogota] PHP Warning:  Attempt to read property "status" on null in D:\xamp\htdocs\pos\cms\views\template.php on line 35
+[26-Mar-2025 09:47:50 America/Bogota] PHP Warning:  Attempt to read property "results" on null in D:\xamp\htdocs\pos\cms\views\template.php on line 41
+[26-Mar-2025 09:47:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in D:\xamp\htdocs\pos\cms\views\template.php on line 41
+[26-Mar-2025 09:47:55 America/Bogota] PHP Warning:  Attempt to read property "status" on null in D:\xamp\htdocs\pos\cms\views\template.php on line 35
+[26-Mar-2025 09:47:55 America/Bogota] PHP Warning:  Attempt to read property "results" on null in D:\xamp\htdocs\pos\cms\views\template.php on line 41
+[26-Mar-2025 09:47:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in D:\xamp\htdocs\pos\cms\views\template.php on line 41
+[26-Mar-2025 10:04:30 America/Bogota] PHP Warning:  Undefined variable $discount in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 107
+[26-Mar-2025 10:05:22 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\manage.php(95): include('D:\\xamp\\htdocs\\...')
+#2 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php(77): include('D:\\xamp\\htdocs\\...')
+#3 D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php(184): include('D:\\xamp\\htdocs\\...')
+#4 D:\xamp\htdocs\pos\cms\views\template.php(304): include('D:\\xamp\\htdocs\\...')
+#5 D:\xamp\htdocs\pos\cms\controllers\template.controller.php(14): include('D:\\xamp\\htdocs\\...')
+#6 D:\xamp\htdocs\pos\cms\index.php(26): TemplateController->index()
+#7 {main}
+  thrown in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[26-Mar-2025 10:05:26 America/Bogota] PHP Warning:  Undefined variable $discount in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 107
+[26-Mar-2025 10:06:39 America/Bogota] PHP Warning:  Undefined variable $discount in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 107
+[26-Mar-2025 10:07:54 America/Bogota] PHP Parse error:  syntax error, unexpected token "else" in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 126
+[26-Mar-2025 10:08:22 America/Bogota] PHP Warning:  Undefined variable $discount in D:\xamp\htdocs\pos\cms\views\pages\dynamic\custom\products\modules\catalog.php on line 107
+[26-Mar-2025 10:09:18 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\manage.php(95): include('D:\\xamp\\htdocs\\...')
+#2 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php(77): include('D:\\xamp\\htdocs\\...')
+#3 D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php(184): include('D:\\xamp\\htdocs\\...')
+#4 D:\xamp\htdocs\pos\cms\views\template.php(304): include('D:\\xamp\\htdocs\\...')
+#5 D:\xamp\htdocs\pos\cms\controllers\template.controller.php(14): include('D:\\xamp\\htdocs\\...')
+#6 D:\xamp\htdocs\pos\cms\index.php(26): TemplateController->index()
+#7 {main}
+  thrown in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[26-Mar-2025 10:09:35 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\manage.php(95): include('D:\\xamp\\htdocs\\...')
+#2 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php(77): include('D:\\xamp\\htdocs\\...')
+#3 D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php(184): include('D:\\xamp\\htdocs\\...')
+#4 D:\xamp\htdocs\pos\cms\views\template.php(304): include('D:\\xamp\\htdocs\\...')
+#5 D:\xamp\htdocs\pos\cms\controllers\template.controller.php(14): include('D:\\xamp\\htdocs\\...')
+#6 D:\xamp\htdocs\pos\cms\index.php(26): TemplateController->index()
+#7 {main}
+  thrown in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
+[26-Mar-2025 10:09:39 America/Bogota] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php:8
+Stack trace:
+#0 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\blocks.php(19): include()
+#1 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\manage.php(95): include('D:\\xamp\\htdocs\\...')
+#2 D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\tables.php(77): include('D:\\xamp\\htdocs\\...')
+#3 D:\xamp\htdocs\pos\cms\views\pages\dynamic\dynamic.php(184): include('D:\\xamp\\htdocs\\...')
+#4 D:\xamp\htdocs\pos\cms\views\template.php(304): include('D:\\xamp\\htdocs\\...')
+#5 D:\xamp\htdocs\pos\cms\controllers\template.controller.php(14): include('D:\\xamp\\htdocs\\...')
+#6 D:\xamp\htdocs\pos\cms\index.php(26): TemplateController->index()
+#7 {main}
+  thrown in D:\xamp\htdocs\pos\cms\views\pages\dynamic\tables\manage\blocks\forms\text.php on line 8
